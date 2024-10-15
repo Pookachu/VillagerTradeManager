@@ -1,0 +1,11 @@
+name: VillagerTradeManager
+version: '1.0-SNAPSHOT'
+main: net.astradal.villagerTradeManager.VillagerTradeManager
+api-version: '1.21'
+prefix: VillagerTradeManager
+authors: [ Pookachu ]
+description: A simple plugin to manage Villager Trades
+permissions:
+  villagertrademanager.bypass:
+    description: Allows someone to bypass villager trading restrictions.
+    default: op
