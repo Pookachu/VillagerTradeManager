@@ -2,4 +2,4 @@
 disable-trades: true
 disabled-worlds:
   - 'example world'
-disable-message: 'Villager Trading is Disabled on Astradal.'
+disable-message: 'Villager Tradingt is Disabled on Astradal.'
