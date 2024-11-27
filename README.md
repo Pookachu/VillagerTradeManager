@@ -1,4 +1,4 @@
 # VillagerTradeManager
 ![Build](https://github.com/astradal-mc/VillagerTradeManager/actions/workflows/gradle.yml/badge.svg)
-## A plugin the prevents villager trading
-## Built for the Astradal Minecraft Server
+**[Built for the Astradal Minecraft Server](https://astradal.net)**
+**This is a plugin the prevents villager trading**
